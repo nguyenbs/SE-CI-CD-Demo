@@ -18,6 +18,8 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 /**
+ * This is test for CI/CD
+ *
  * Class fproject\rest\ActiveController extends yii\rest\ActiveController with
  * additional REST endpoints and methods in order to work with F-Project framework Flex clients.
  * It also provides fproject\rest\UrlRule to config URL rule for active controllers to accept extended routes.
